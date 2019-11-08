@@ -1,0 +1,14 @@
+{
+  "name": "ios-shortcuts-reminders-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Blake Knight <oss.ideas@gmail.com> (https://blakek.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
